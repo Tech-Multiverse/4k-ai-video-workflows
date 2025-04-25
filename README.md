@@ -23,7 +23,7 @@ You may need to use the tiled VAE Decoder node, which is included in workflow th
 
 Text-to-Video can run both `t2v_14B_fp16` or `t2v_14B_fp8_scaled` models, but Image-to-Video crashed unless I used `i2v_480p_14B_fp8_scaled`. 
 
-Image-to-Video produces better quality more often than Text-to-Video.
+Image-to-Video produces better quality more often than Text-to-Video. Just try to use a higher resolution image.
 
 **THIS REQUIRES PATIENCE!!**
 Is this better than paying for a service? Maybe not, but I wanted to see if I could do it and to see what I would learn.     
