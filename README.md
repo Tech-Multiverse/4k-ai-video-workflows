@@ -2,14 +2,12 @@
 
 These are the workflows I used to create 4K AI videos on a laptop with an RTX4060 that only has 8GB of VRAM.
 
-Read the article about this project on my blog.
-[COMING SOON]
+[Read the article about this project on my blog.](https://tech-multiverse.com/projects/how-to-create-4k-ai-videos-locally-with-low-vram/)
 
-Watch this YouTube video to learn more about the project.
-[COMING SOON]
 
-This is a sample of the videos I've made with these workflows.
-[COMING SOON]
+[Watch this YouTube video to learn more about the project.](https://youtu.be/HkIMubtTqhQ)
+
+[This is a sample of the videos I've made with these workflows.](https://youtu.be/2107IdC6nlE)
 
 
 ## Notes
@@ -93,3 +91,10 @@ Location: `ComfyUI\models\clip_vision\`
 
 Model: [umt5_xxl_fp8_e4m3fn_scaled.safetensors](https://huggingface.co/Kijai/WanVideo_comfy/blob/main/umt5-xxl-enc-fp8_e4m3fn.safetensors)
 Location: `ComfyUI\models\clip_vision\`
+
+---
+## Useful Sites
+
+[WAN 2.1 site](https://www.wan-ai.org/)
+
+[FramePack GitHub page](https://github.com/lllyasviel/FramePack)
